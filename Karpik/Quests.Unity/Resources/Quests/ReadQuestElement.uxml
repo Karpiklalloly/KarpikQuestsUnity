@@ -1,0 +1,9 @@
+<engine:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:engine="UnityEngine.UIElements" xmlns:editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/UIExtension/Karpik/UIExtension/Resources/Styles/Positions.uss?fileID=7433441132597879392&amp;guid=a7a0cf33643d68747874539bbb286a3e&amp;type=3#Positions" />
+    <engine:GroupBox>
+        <engine:Label text="Id" name="Id" class="horizontal-center" />
+        <engine:Label text="Name" name="Name" class="horizontal-center" />
+        <engine:Label text="Description" name="Description" class="horizontal-center" />
+    </engine:GroupBox>
+    <Karpik.Quests.Unity.QuestCollectionElement name="SubQuests" />
+</engine:UXML>

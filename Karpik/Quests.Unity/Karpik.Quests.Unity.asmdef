@@ -1,0 +1,17 @@
+{
+    "name": "Karpik.Quests.Unity",
+    "rootNamespace": "Karpik.Quests",
+    "references": [
+        "Karpik.UIExtension",
+        "Karpik.Quests"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

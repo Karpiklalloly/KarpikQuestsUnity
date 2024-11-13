@@ -1,0 +1,10 @@
+<engine:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:engine="UnityEngine.UIElements" noNamespaceSchemaLocation="../../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/UIExtension/Karpik/UIExtension/Resources/Styles/Positions.uss?fileID=7433441132597879392&amp;guid=a7a0cf33643d68747874539bbb286a3e&amp;type=3#Positions" />
+    <engine:Label text="Id" name="Id" style="align-items: auto; align-self: center; color: rgb(255, 0, 0);" />
+    <engine:TextField label="Name" name="Name" select-all-on-focus="false" select-all-on-mouse-up="false" />
+    <engine:TextField label="Description" name="Description" select-all-on-mouse-up="false" select-all-on-focus="false" multiline="true" />
+    <engine:Toggle label="Orderly Completion" name="OrderlyCompletion" />
+    <engine:DropdownField label="Completion Type" choices="Or" name="CompletionType" />
+    <engine:EnumField label="Status" value="Center" type="Karpik.Quests.Status, Karpik.Quests" name="Status" />
+    <Karpik.Quests.Unity.QuestCollectionElement name="SubQuests" />
+</engine:UXML>

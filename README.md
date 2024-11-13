@@ -1,2 +1,3 @@
 # KarpikQuestsUnity
-Port of KarpikQuests to Unity
+Порт KarpikQuests на Unity.
+Из дополнительных возможностей - визуальный граф и соответствующие подменю для создания квестов.

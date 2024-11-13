@@ -1,0 +1,5 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <ui:Label text="From" name="From" />
+    <ui:Label text="To" name="To" />
+    <ui:DropdownField label="Type" name="Type" />
+</ui:UXML>

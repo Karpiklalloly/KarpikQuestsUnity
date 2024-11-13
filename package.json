@@ -1,0 +1,16 @@
+{
+    "name": "com.karpik.quests-unity",
+    "version": "0.8.0",
+    "displayName": "Karpik.Quests.Unity",
+    "description": "Add quest system for Unity. Also add graph for easier usage",
+    "unity": "2023.2",
+    "dependencies": {
+      "com.karpik.uiextension": "0.6.3",
+      "com.unity.nuget.newtonsoft-json": "3.0.0",
+      "jillejr.newtonsoft.json-for-unity.converters": "1.6.3"
+    },
+    "author": {
+      "name": "Karpik",
+      "url": "https://github.com/Karpiklalloly"
+    }
+  }

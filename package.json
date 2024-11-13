@@ -7,7 +7,7 @@
     "dependencies": {
       "com.karpik.uiextension": "0.6.3",
       "com.unity.nuget.newtonsoft-json": "3.0.0",
-      "jillejr.newtonsoft.json-for-unity.converters": "1.6.3"
+      "https://github.com/jilleJr/Newtonsoft.Json-for-Unity.Converters.git#1.6.3": "1.6.3"
     },
     "author": {
       "name": "Karpik",
